@@ -120,6 +120,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/f19ba159-1cc2-4368-8b40-2148a0f76406)
+
+
 ## Sample Q&A
 
 **Q1: What are the main benefits of using S3 buckets?**
