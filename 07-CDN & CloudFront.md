@@ -2,16 +2,6 @@
 
 If you've never heard of CDN or CloudFront before, don't worry. We'll start from scratch and gradually build up your understanding. By the end, you'll be well-versed in these technologies. So let's get started.
 
-## 📋 Table of Contents
-- [🌐 Introduction to Content Delivery Networks (CDN)](#-introduction-to-content-delivery-networks-cdn)
-- [☁️ What is CloudFront?](#️-what-is-cloudfront)
-- [⚙️ How Does CloudFront Work?](#️-how-does-cloudfront-work)
-- [💡 Benefits of CloudFront](#-benefits-of-cloudfront)
-- [🛠️ Setting Up CloudFront on AWS](#-setting-up-cloudfront-on-aws)
-- [📦 Use Cases and Scenarios](#-use-cases-and-scenarios)
-- [💡 Tips and Best Practices](#-tips-and-best-practices)
-- [🏁 Conclusion](#-conclusion)
-
 ## 🌐 1. Introduction to Content Delivery Networks (CDN)
 Imagine you have a website with lots of cool content, like images, videos, and documents. When a user visits your site from a different location far away from your server, the content might take a long time to load. That's where CDN comes to the rescue!
 
