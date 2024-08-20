@@ -1,5 +1,3 @@
-# 🧪 Revision Notes: Mixtures
-
 ## 📝 Introduction
 - **Mixtures**: A combination of two or more substances that are not chemically combined and can be separated by physical means.
 - **Types of Mixtures**: 
@@ -66,4 +64,3 @@
 
 ---
 
-**Note**: This markdown file can be viewed directly on GitHub and provides a comprehensive and engaging revision guide for the topic of Mixtures.
